@@ -33,3 +33,6 @@ To interact with the project:
 ## 5. Licensing, Authors, Acknowledgements, etc.
 You can access the data used in this analysis via this link:
 - [Stack Overflow Annual Developer Survey](https://survey.stackoverflow.co/).
+
+## Medium post:
+[Understanding the Impact of Education, Experience, and Programming Languages on Salary of Developer: A Data-Driven Analysis](https://medium.com/@vu38988/understanding-the-impact-of-education-experience-and-programming-languages-on-salary-of-99d413c5a589)

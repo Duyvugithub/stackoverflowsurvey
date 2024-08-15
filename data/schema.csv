@@ -1,0 +1,36 @@
+qname,question
+Employment,Which of the following best describes your current employment status? Select all that apply.
+LearnCode,How do you learn to code? Select all that apply.
+DatabaseHaveWorkedWith,
+ToolsTechHaveWorkedWith,
+YearsCode,"Including any education, how many years have you been coding in total?"
+SurveyLength,How do you feel about the length of the survey this year?
+SurveyEase,How easy or difficult was this survey to complete?
+ResponseId,
+LanguageWantToWorkWith,
+SOAccount,Do you have a Stack Overflow account?
+ToolsTechWantToWorkWith,
+LanguageHaveWorkedWith,
+Currency,"Which currency do you use day-to-day? If your answer is complicated, please pick the one you're most comfortable estimating in. *"
+DevType,"Which of the following describes your current job, the one you do most of the time? Please select only one."
+NEWCollabToolsWantToWorkWith,
+MiscTechWantToWorkWith,
+PlatformWantToWorkWith,
+DatabaseWantToWorkWith,
+WebframeHaveWorkedWith,
+ConvertedCompYearly,
+SOVisitFreq,How frequently would you say you visit Stack Overflow?
+NEWCollabToolsHaveWorkedWith,
+SOPartFreq,"How frequently would you say you participate in Q&amp;A on Stack Overflow? By participate we mean ask, answer, vote for, or comment on questions."
+OrgSize,"Approximately how many people are employed by the company or organization you currently work for?  This should only include your primary company, and not the entire holding or parent company if that applies."
+MainBranch,"Which of the following options best describes you today? For the purpose of this survey, a developer is ""someone who writes code"". *"
+CompTotal,"What is your current total <b>annual</b> compensation (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation.  If you are paid hourly, please estimate an equivalent yearly salary. If you prefer not to answer, please leave the box empty."
+SOComm,Do you consider yourself a member of the Stack Overflow community?
+Country,"Where do you live? <span style=""font-weight: bolder;"">*</span>"
+WebframeWantToWorkWith,
+NEWSOSites,Which of the following Stack Overflow sites have you visited? Select all that apply. *
+MiscTechHaveWorkedWith,
+EdLevel,Which of the following best describes the highest level of formal education that you’ve completed? *
+PlatformHaveWorkedWith,
+Age,What is your age? *
+YearsCodePro,"NOT including education, how many years have you coded professionally (as a part of your work)?"
